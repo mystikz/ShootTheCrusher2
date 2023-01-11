@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "unnamed black belt project",
+"productVersion": "0.1",
+"dataUrl": "ShootTheCrusher.data.unityweb",
+"wasmCodeUrl": "ShootTheCrusher.wasm.code.unityweb",
+"wasmFrameworkUrl": "ShootTheCrusher.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.28f1"
+}
